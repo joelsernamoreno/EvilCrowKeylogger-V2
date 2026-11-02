@@ -25,7 +25,7 @@ You can invite me to a coffee to further develop low-cost hacking devices. If yo
 
 **Available with SAPSAN Cybersec & Military (shipping from EU):**
 
-* Coming Soon
+* https://sapsan-sklep.pl/en/products/evil-crow-keylogger-v2
 
 **Available with KSEC Worldwide (shipping from UK):**
 
@@ -33,7 +33,7 @@ You can invite me to a coffee to further develop low-cost hacking devices. If yo
 
 **Available with Tienda Espía (shipping from Mexico):**
 
-* Coming Soon
+* https://tiendaespia.com.mx/producto/evil-crow-keylogger-v2
 
 **Summary:**
 
@@ -386,11 +386,19 @@ Reboot device remotely:
 
 ## USB Keyboard Autoclone
 
+Evil Crow Keylogger v2 allows you to auto-clone the basic configuration of a USB keyboard connected to the device's USB-A female port. First, click on "SCAN CONNECTED KEYBOARD" to retrieve the basic configuration of the USB keyboard:
+
 ![AutoClone](https://github.com/joelsernamoreno/EvilCrowKeylogger-V2/blob/main/images/autoclone.png)
+
+Once the configuration is retrieved, click on "AUTOCLONE" to clone the configuration:
 
 ![AutoClone](https://github.com/joelsernamoreno/EvilCrowKeylogger-V2/blob/main/images/autoclone1.png)
 
+You must restart the device to apply the new configuration:
+
 ![AutoClone](https://github.com/joelsernamoreno/EvilCrowKeylogger-V2/blob/main/images/autoclone2.png)
+
+After the reboot, Evil Crow Keylogger v2 will identify itself using the cloned configuration of the legitimate USB keyboard:
 
 ![AutoClone](https://github.com/joelsernamoreno/EvilCrowKeylogger-V2/blob/main/images/autoclone3.png)
 
