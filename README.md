@@ -17,7 +17,7 @@
 The developers and collaborators of this project do not earn any money from it. 
 You can invite me to a coffee to further develop low-cost hacking devices. If you don't invite me, no worries, I will keep developing devices
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
+[![Ko-fi](https://storage.ko-fi.com/cdn/kofi5.png?v=6)](https://ko-fi.com/E1E614OA5)
 
 **Available with April Brother (shipping from China):** 
 
