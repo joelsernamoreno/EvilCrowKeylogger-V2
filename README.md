@@ -150,7 +150,7 @@ You can check that the flash mode is correct with the following image:
 8. Download the ArduinoJson library and place it in your Arduino libraries directory: git clone https://github.com/bblanchon/ArduinoJson.git
 9. Open Arduino IDE
 10. Go to File - Preferences. Locate the field "Additional Board Manager URLs:" Add "https://espressif.github.io/arduino-esp32/package_esp32_index.json" without quotes. Click "Ok"
-11. Select Tools - Board - Boards Manager. Search for "esp32". Install "esp32 by Espressif system version 3.3.8"
+11. Select Tools - Board - Boards Manager. Search for "esp32". Install "esp32 by Espressif system version 3.3.11"
 12. Flash firmware.ino:
 	* Connect Evil Crow Keylogger with a magnet to the computer
 	* Open EvilCrowKeylogger-V2/firmware/firmware.ino in Arduino IDE
