@@ -1,4 +1,4 @@
-# EvilCrowKeylogger-V2
+# Evil Crow Keylogger V2
 
 ![EvilCrow](https://github.com/joelsernamoreno/EvilCrowKeylogger-V2/blob/main/images/logo.png)
 
@@ -27,9 +27,11 @@ You can invite me to a coffee to further develop low-cost hacking devices. If yo
 
 * https://sapsan-sklep.pl/en/products/evil-crow-keylogger-v2
 
-**Available with KSEC Worldwide (shipping from UK):**
+**Available with KSEC Worldwide (shipping from UK and EU):**
 
-* Coming Soon
+* UK: https://labs.ksec.co.uk/product/evil-crow-keylogger-v2/
+
+* EU: https://eu.ksec.co.uk/product/evil-crow-keylogger-v2/
 
 **Available with Tienda Espía (shipping from Mexico):**
 
@@ -59,7 +61,7 @@ You can invite me to a coffee to further develop low-cost hacking devices. If yo
 	* AI assistant
 	* Debug messages
 	* HTTP Update
-4. Sintax
+4. Syntax
 	* Payload Syntax
 	* Keys and Modifiers Syntax
 5. Remote Shell
@@ -593,7 +595,7 @@ This will create the binaries:
 
 **NOTE:** The compiled firmware is located in the EvilCrowKeylogger-V2/compiled/ folder.
 
-# Sintax
+# Syntax
 
 ## Payload Syntax
 
