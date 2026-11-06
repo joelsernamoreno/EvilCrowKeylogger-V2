@@ -21,7 +21,9 @@ You can invite me to a coffee to further develop low-cost hacking devices. If yo
 
 **Available with April Brother (shipping from China):** 
 
-* Coming Soon
+* Tindie: https://www.tindie.com/products/aprbrother/evilcrow-keylogger-v2/
+
+* Aliexpress: Coming Soon
 
 **Available with SAPSAN Cybersec & Military (shipping from EU):**
 
